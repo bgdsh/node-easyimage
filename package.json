@@ -66,9 +66,9 @@
   },
   "description": "A promise-based, user-friendly module for processing images in Node.js",
   "devDependencies": {
-    "chai": "^1.9.1",
-    "chai-as-promised": "^4.1.1",
-    "mocha": "^1.21.4"
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "mocha": "^3.2.0"
   },
   "gitHead": "a2f1a329c76d7fee2da761a1836b82ee0a33f789",
   "homepage": "https://github.com/hacksparrow/node-easyimage#readme",
