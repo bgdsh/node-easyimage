@@ -1,6 +1,8 @@
 EasyImage [![NPM version](https://badge.fury.io/js/easyimage.svg)](https://badge.fury.io/js/easyimage)
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bgdsh/node-easyimage.svg)](https://greenkeeper.io/)
+
 EasyImage is a promise-based image processing module for Node.js, it is built on top of ImageMagick, so make sure ImageMagick is installed on your system.
 
 On Ubuntu
